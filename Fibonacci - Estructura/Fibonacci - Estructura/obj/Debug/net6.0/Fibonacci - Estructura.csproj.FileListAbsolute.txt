@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\bin\Debug\net6.0\Fibonacci - Estructura.exe
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\bin\Debug\net6.0\Fibonacci - Estructura.deps.json
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\bin\Debug\net6.0\Fibonacci - Estructura.runtimeconfig.json
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\bin\Debug\net6.0\Fibonacci - Estructura.dll
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\bin\Debug\net6.0\Fibonacci - Estructura.pdb
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.AssemblyInfo.cs
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.dll
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\refint\Fibonacci - Estructura.dll
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.pdb
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\Fibonacci - Estructura.genruntimeconfig.cache
+C:\Users\USER\source\repos\Fibonacci - Estructura\Fibonacci - Estructura\obj\Debug\net6.0\ref\Fibonacci - Estructura.dll
